@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sathiyae2005
+- 👋 Hi, I’m Sathiyapriya
 - 👀 I’m interested in Programming and technologies
 - 🌱 I’m currently learning Electronics and communication Engineering
 - 💞️ I’m looking to collaborate on ...
